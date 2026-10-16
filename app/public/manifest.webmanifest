@@ -1,0 +1,16 @@
+{
+  "name": "Plataforma Justi - Concreto Armado",
+  "short_name": "Justi Concreto",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f8fb",
+  "theme_color": "#0b3b64",
+  "description": "Plataforma didática para cálculo de vigas e lajes de concreto armado.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
